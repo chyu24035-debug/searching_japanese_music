@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/searching_japanese_music/static/css/main.08ec77cf.css",
+    "main.js": "/searching_japanese_music/static/js/main.72a2515c.js",
+    "static/js/453.70d106fa.chunk.js": "/searching_japanese_music/static/js/453.70d106fa.chunk.js",
+    "index.html": "/searching_japanese_music/index.html",
+    "main.08ec77cf.css.map": "/searching_japanese_music/static/css/main.08ec77cf.css.map",
+    "main.72a2515c.js.map": "/searching_japanese_music/static/js/main.72a2515c.js.map",
+    "453.70d106fa.chunk.js.map": "/searching_japanese_music/static/js/453.70d106fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08ec77cf.css",
+    "static/js/main.72a2515c.js"
+  ]
+}
