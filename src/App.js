@@ -148,7 +148,7 @@ function App() {
   return (
     <div className="App">
       <h1>Searching Japanese Music!!</h1>
-      <img src="images/searchMusic.jpg" alt="サイトメイン画像" />
+      <img src={process.env.PUBLIC_URL + "/images/searchMusic.jpg"} alt="サイトメイン画像" />
 
       <p>アーティスト名で検索</p>
       <input value={artist} onChange={(e) => setArtist(e.target.value)} placeholder="例：Mrs.GREEN APPLE" />
